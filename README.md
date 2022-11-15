@@ -1,2 +1,1 @@
-# easygoing
-# easygoing
+<h1 align="center">easygoing</h1>
